@@ -1,3 +1,3 @@
 bottle==0.11.6
-Django==1.5.4
+Django==1.11.29
 WeRoBot==0.4.1
